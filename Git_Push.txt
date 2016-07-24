@@ -1,0 +1,4 @@
+git init	#This command creates an empty directory For first time only
+git add .   #For adding all files to master
+git commit -m "This is a new commit"	#Commit files with a message
+git push origin master	#push your files to git
